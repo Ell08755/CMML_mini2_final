@@ -9,7 +9,7 @@ CMML_mini2_final/
 │   └── Vertical_calc.ipynb: benchmark file for vertical integration
 ├── bench_res/: store bench result
 ├── data/: store data in 10x Genomics format, barcodes.csv, matrix.mtx, features.tsv
-├── env/
+├── envs/
 │   │── metric.yml: yml for benchmark
 │   └── mira.yml: yml for MIRA
 ├── run/: run integration
